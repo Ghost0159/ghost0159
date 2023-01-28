@@ -15,3 +15,5 @@
 ## Discord Statue 🤖
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/540888527651733511)](https://discord.com/users/540888527651733511)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3EL27K)
