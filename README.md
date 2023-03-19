@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🍰 I'm 17.
-- 🔭 I'm currently working on **_[Ghost eShop](https://ghosteshop.com)_**.
+- 🍰 I'm 18.
+- 🔭 I'm currently working on **_[Ghost eShop](https://ghosteshop.com)_**, _[beeGhost](https://github.com/ghost-land/beeGhost)_ and _WatchMachine_.
 - 👯 I'm looking to collaborate to create an alternative & free eShop for several game consoles.
 - 📮 How to reach me:  _discord_ : **[[👻] Ghost0159#4454](https://discord.com/users/540888527651733511)** | _reddit_ : **[Ghost0159](https://www.reddit.com/user/Ghost0159)**
 - 😄 Pronouns: He/Him
