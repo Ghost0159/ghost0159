@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🍰 I'm 19.
-- 🔭 I'm currently working on **_[Ghost eShop](https://ghosteshop.com)_**, _[beeGhost](https://github.com/ghost-land/beeGhost)_, _[Nintendo eShop Database preservation](https://github.com/ghost-land/Nintendo-eShop-db)_ & _[hShop Downloader Client](https://github.com/Ghost0159/hShop-downloader)_.
+- 🔭 I'm currently working on **_[Ghost eShop](https://ghosteshop.com)_**, _[Nintendo eShop Database preservation](https://github.com/ghost-land/Nintendo-eShop-db)_ & _[hShop Downloader Client](https://github.com/Ghost0159/hShop-downloader)_.
 - 👯 I'm looking to collaborate to create an alternative & free eShop for several game consoles.
 - 📮 How to reach me:  _discord_ : **[ghost0159](https://discord.com/users/540888527651733511)** | _reddit_ : **[Ghost0159](https://www.reddit.com/user/Ghost0159)**
 - 😄 Pronouns: He/Him
