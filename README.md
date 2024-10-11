@@ -15,3 +15,7 @@
 ## Discord Statue 🤖
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/540888527651733511)](https://discord.com/users/540888527651733511)
+
+
+## Donate
+donate here: https://boosty.to/ghostland
